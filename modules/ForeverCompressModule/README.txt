@@ -1,0 +1,2 @@
+设置FOREVER_COMPRESS_MODULE_HOME环境变量为此目录
+设置7za环境变量

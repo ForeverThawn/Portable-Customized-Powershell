@@ -1,2 +1,2 @@
+A Personalized Powershell setup using pwsh7
 
-A Portable Powershell setup
